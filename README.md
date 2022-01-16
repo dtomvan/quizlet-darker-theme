@@ -11,5 +11,5 @@ it is by default.
 
 1. Install the [Stylus](https://github.com/openstyles/stylus) extension for
    Chrome and Firefox.
-2. Find this theme on [userstyles.world](https://userstyles.world) and click
+2. Find this theme on [userstyles.world](https://userstyles.world/style/2769/quizlet-darker) and click
    install.
